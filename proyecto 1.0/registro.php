@@ -7,6 +7,7 @@
     <title>Document</title>
 </head>
 <body>
+    <h1 Prueba /h1>
     <form action="procesarRegistro.php" method="post">
     <div>
     <label for="nombre:">Nombre</label>
